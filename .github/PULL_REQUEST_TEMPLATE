@@ -17,6 +17,7 @@
 
 ## DESCRIPTION OF CHANGES: 
 <!-- One or more paragraphs describing the problem, solution, and required changes. -->
+<!---If this PR replaces other PRs, list them here. Example: includes #<PR number>-->
 
 ### Type of change
 <!-- Please delete options that are not relevant. Add an X to check off a box. -->
@@ -44,7 +45,9 @@
 <!-- If this PR is contributing new capabilities that need to be documented, please also include updates to the RST files (docs/UsersGuide/source) as supporting material. -->
 
 ## ISSUE: 
-<!-- If this PR is resolving or referencing one or more issues, in this repository or elsewhere, list them here (Remember, issues must always be created before starting work on a PR branch!). For example, "Fixes issue mentioned in #123" or "Related to bug in https://github.com/ufs-community/other_repository/pull/63" -->
+<!-- If this PR is resolving or referencing one or more issues, in this repository or elsewhere, list them here (Remember, issues must always be created before starting work on a PR branch!). 
+For example, "Fixes issue mentioned in #123" or "Related to bug in https://github.com/ufs-community/other_repository/pull/63" -->
+<!--Please link the issues to be closed with this PR. Example: fixes #<issue_number>-->
 
 ## CHECKLIST
 <!-- Add an X to check off a box. -->
